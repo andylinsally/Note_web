@@ -1,5 +1,5 @@
-# Vue 3 + Vite
+# Note筆記網站
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Vite+Vue3的回家作業，使用Bootstrap排版、Pinia管理資料、vue router切換頁面。
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+功能列表：新增筆記、刪除筆記、搜尋筆記、修改筆記、釘選筆記
